@@ -2,6 +2,6 @@
 ## Esto es un encabezado h2
 ### Esto es un encabezado h3
 
-```
-sudo systemctl start apache2
-```
+En esta frase estamos resaltado el comando `mkdir`.
+
+
