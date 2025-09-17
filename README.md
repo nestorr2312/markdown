@@ -45,3 +45,5 @@ Párrafo 1.
 <!- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
+
+![](https://img2.rtve.es/n/2155561)
