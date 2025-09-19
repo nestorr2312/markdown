@@ -39,6 +39,7 @@ hemos forzado un salto de línea.
   Este texto no es una cita.
 > Este texto daría como resultado una cita.
 
+[Documento enlace](./markdown2.md)
 
 Párrafo 1.
 
@@ -47,3 +48,4 @@ Párrafo 1.
 Párrafo 2.
 
 ![](https://img2.rtve.es/n/2155561)
+
